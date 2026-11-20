@@ -1,0 +1,20 @@
+# Analisi dati
+numpy
+pandas
+scipy
+
+# Fit e incertezze
+iminuit
+uncertainties
+
+# Grafici
+matplotlib
+seaborn
+
+# Lettura file Excel/ODS
+openpyxl
+odfpy
+
+# Notebook
+jupyter
+ipykernel
